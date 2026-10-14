@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>local.andy.reminders-helper</string>
+    <key>CFBundleName</key>
+    <string>reminders-helper</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Lets your AI assistant add reminders that sync to your iPhone.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Lets your AI assistant add, list and complete reminders that sync to your iPhone.</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+{
+  "name": "iphone-reminders-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that turns AI to-dos into Apple Reminders (synced to iPhone)",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "iphone-reminders-mcp": "index.js" },
+  "scripts": {
+    "build": "sh build.sh",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.25.0"
+  }
+}
