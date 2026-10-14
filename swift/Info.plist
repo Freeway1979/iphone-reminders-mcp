@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleIdentifier</key>
-    <string>local.andy.reminders-helper</string>
+    <string>local.iphone-reminders-mcp.helper</string>
     <key>CFBundleName</key>
     <string>reminders-helper</string>
     <key>NSRemindersUsageDescription</key>

@@ -54,7 +54,7 @@ Edit `~/Library/Application Support/Claude/claude_desktop_config.json`:
   "mcpServers": {
     "iphone-reminders": {
       "command": "/opt/homebrew/bin/node",
-      "args": ["/Users/andy/code/iphone-reminders-mcp/index.js"],
+      "args": ["/path/to/iphone-reminders-mcp/index.js"],
       "env": {
         "REMINDER_DEFAULT_TIME": "20:30",
         "REMINDER_DEFAULT_LIST": "Reminders"
